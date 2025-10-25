@@ -1,0 +1,10 @@
+{
+  "name": "NeuroToken",
+  "symbol": "NRT",
+  "description": "AI-powered utility token for data and automation.",
+  "image": "https://raw.githubusercontent.com/<your-github-user>/<your-repo>/main/logo.png",
+  "external_url": "https://your-site.example", 
+  "attributes": [
+    { "trait_type": "Category", "value": "Utility" }
+  ]
+}
