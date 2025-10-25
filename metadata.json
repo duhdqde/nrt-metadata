@@ -1,10 +1,27 @@
 {
   "name": "NeuroToken",
   "symbol": "NRT",
-  "description": "AI-powered utility token for data and automation.",
+  "description": "AI-powered utility token for neural data, automation and decentralized intelligence.",
   "image": "https://raw.githubusercontent.com/duhdqde/nrt-metadata/main/logo.png",
-  "external_url": "https://your-site.example", 
+  "external_url": "https://neurotoken.ai",
+  "seller_fee_basis_points": 0,
   "attributes": [
-    { "trait_type": "Category", "value": "Utility" }
-  ]
+    { "trait_type": "Category", "value": "Utility" },
+    { "trait_type": "Network", "value": "Solana Mainnet" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/duhdqde/nrt-metadata/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6RkEnm4x89QsqaQszN1RBUp1dMLvcwCjiDbTTWQEGVJt",
+        "share": 100
+      }
+    ]
+  }
 }
